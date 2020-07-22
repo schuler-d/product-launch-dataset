@@ -64,6 +64,7 @@ Users can query the data by these fields or by **ISIN codes**. This is possible 
 
 https://github.com/schuler-d/product-launch-dataset/blob/master/README_JNB.ipynb
 
+<br>
 
 ## Coverage
 
