@@ -74,5 +74,5 @@ As of July 2020, the dataset covers **2.4 million product launches** parsed from
 
 ## Data access
 
-The full dataset is hosted on the Google Cloud Platform. Please contact me at dennis.schuler@protonmail.com in case you are interested in using the data for research or a commercial project.
+The full dataset is hosted on the Google Cloud Platform. Contact dennis.schuler@protonmail.com in case you are interested in using the data for research or a commercial project.
 
